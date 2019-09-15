@@ -13,3 +13,5 @@
 ### express-crash-course https://www.youtube.com/watch?v=L72fhGm1tfE
 
 ### bootstrap-crash-course https://www.youtube.com/watch?v=5GcQtLDGXy8
+
+### typescript-tut https://www.youtube.com/watch?v=NjN00cM18Z4
